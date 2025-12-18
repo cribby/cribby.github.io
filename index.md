@@ -12,6 +12,7 @@ immigration data, dashboards, family-friendly planning tools, etc.<br>
 Current interests:<br>
 Pilates, baseball, policy and reality TV<br>
 <br>
+  <br>
 Projects:<br>
 <a href="baseball">Baseball Factories</a><br> 
 a look at the small countries with high player outputs<br>
@@ -19,6 +20,8 @@ a look at the small countries with high player outputs<br>
 <a href="immigration">An Immigration Story</a><br> 
 what role do immigrants play in our economy?<br>
 <br>
+  <br>
+  <br>
 <a href="https://www.linkedin.com/in/cristina-a-b68972185/">LinkedIn</a> / <a href="mailto:cris.alvarezguzman@gmail.com">Email</a> / 
 <a href="https://www.instagram.com/kateouterton2.0/?hl=en">Instagram</a>
 </div>
