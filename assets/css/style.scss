@@ -1,27 +1,26 @@
 ---
 ---
 
-/* import the selected GitHub Pages theme styles */
 @import "{{ site.theme }}";
 
-/* === Global terminal look === */
+/* === Global retro look, black on white === */
 body {
   background-color: #ffffff;        /* white background */
   color: #000000;                   /* black text */
   font-family: "VT323", "Fira Mono", "Courier New", monospace;
-  text-shadow: 0 0 4px rgba(0, 255, 100, 0.6); /* glow */
+  text-shadow: none;                /* no glow */
 }
 
-/* links a bit brighter green */
+/* links: simple underline, still black */
 a {
-  color: #5cffb5;
-  text-decoration: none;
-}
-a:hover {
+  color: #000000;
   text-decoration: underline;
 }
+a:hover {
+  text-decoration: none;
+}
 
-/* center main content for a “screen” feel */
+/* center main content for a “screen” frame */
 .site-title,
 .site-header,
 .site-footer,
@@ -30,36 +29,24 @@ a:hover {
   margin: 0 auto;
 }
 
-/* code blocks and inline code look like terminal output */
+/* code blocks / inline code: retro monospace, no background color */
 pre,
 code {
   background: transparent;
-  color: #00ff55;
+  color: #000000;
   font-family: "VT323", "Fira Mono", "Courier New", monospace;
-  text-shadow: 0 0 3px rgba(0, 255, 100, 0.4);
+  text-shadow: none;
   border-radius: 0;
 }
 
-/* optional: dim headings slightly so content lines pop more */
+/* headings: uppercase, spaced, still black */
 h1, h2, h3, h4, h5, h6 {
-  color: #7bffb5;
+  color: #000000;
   text-transform: uppercase;
   letter-spacing: 0.08em;
 }
 
-/* optional: subtle scanline overlay */
+/* remove scanline effect if you don't want it */
 body::before {
-  content: "";
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  pointer-events: none;
-  background-image: linear-gradient(
-    rgba(0, 0, 0, 0) 50%,
-    rgba(0, 0, 0, 0.35) 50%
-  );
-  background-size: 100% 4px;
-  opacity: 0.25;
+  content: none;
 }
