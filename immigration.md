@@ -11,10 +11,10 @@ Short text about this project.<br>
 <br>
 
 <div class="image-grid">
-  <img src="projects/image1.png" alt="immigration1">
-  <img src="projects/image2.png" alt="immigration2">
-  <img src="projects/image3.png" alt="immigration3">
-  <img src="projects/image4.png" alt="immigration4">
+  <img src="projects/immigration1.png" alt="immigration1">
+  <img src="projects/immigration2.png" alt="immigration2">
+  <img src="projects/immigration3.png" alt="immigration3">
+  <img src="projects/immigration4.png" alt="immigration4">
 </div>
 
 <br>
