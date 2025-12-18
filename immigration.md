@@ -4,7 +4,6 @@ title: An Immigration Story (Orange County Immigration Statistics)
 ---
 
 <div class="project-block">
-==============
 An Immigration Story (Orange County Immigration Statistics)<br>
 <br>
 Looks at the economic role immigrants play in our economy. Also wanted to look at the population of immigrants within Orange County to see how much a large exodus of immigrants would affect our county.<br>
