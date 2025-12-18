@@ -4,13 +4,12 @@ layout: default
 
 <div class="right-block">
 ==============
-Independent data analyst<br>
+Independent Data Visualization Designer and Artist<br>
 <br>
-Short line about what you work on:<br>
-immigration data, dashboards, family-friendly planning tools, etc.<br>
+I'm Cris Alvarez, an Education Policy researcher with a focus on data visualizations made for policy. Policy tends to deal in the technical and is not usually translated for public consumption and interpretation. This kind of use of jargon tends to alienate the people it will affect most and strive to create data visualizations that empower people to make more informed decisions. My specialization is in data visualizations formatted for social media, with a focus on shareability on these platforms, but I am also available for website work and print.<br>
 <br>
 Current interests:<br>
-Pilates, baseball, policy and reality TV<br>
+Pilates, baseball, policy, and reality TV<br>
 <br>
   <br>
 Projects:<br>
