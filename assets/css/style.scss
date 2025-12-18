@@ -64,6 +64,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
+/* hide the GitHub Pages footer / theme credit */
+.footer,
+.site-footer,
+.footer.border-top {
+  display: none !important;
+}
+
+
+
 /* remove scanline effect if you don't want it */
 body::before {
   content: none;
