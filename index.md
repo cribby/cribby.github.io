@@ -16,7 +16,7 @@ Projects:<br>
 <a href="baseball">Baseball Factories</a><br> 
 a look at the small countries with high player outputs<br>
 <br>
-<a href="immigration">An Immigration STorys</a><br> 
+<a href="immigration">An Immigration Story</a><br> 
 what role do immigrants play in our economy?<br>
 <br>
 <a href="https://www.linkedin.com/in/cristina-a-b68972185/">LinkedIn</a> / <a href="mailto:cris.alvarezguzman@gmail.com">Email</a> / 
