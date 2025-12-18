@@ -1,9 +1,6 @@
 ____________________________________
-
-Cristina
-
 Your role at
-Your Company or “Independent data analyst”
+Independent data analyst
 
 Short line about what you work on:
 immigration data, dashboards, family-friendly planning tools, etc.
