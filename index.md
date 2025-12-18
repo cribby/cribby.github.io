@@ -16,6 +16,6 @@ Pilates, baseball, policy and reality tv
 
 [Baseball writing sample](baseball)
 
-Twitter / LinkedIn / Email
+Twitter / LinkedIn / Email / [Instagram](https://www.instagram.com/kateouterton2.0/?hl=en)
 
 </div>
