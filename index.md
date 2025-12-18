@@ -19,7 +19,7 @@ a look at the small countries with high player outputs<br>
 <a href="immigration">An Immigration Story</a><br> 
 what role do immigrants play in our economy?<br>
 <br>
-<a href="VPR">Vanderpump Rules Relationship Network</a><br> 
+<a href="vpr">Vanderpump Rules Relationship Network</a><br> 
 11 seasons worth of relationships mapped out<br>
 <br>
   <br>
