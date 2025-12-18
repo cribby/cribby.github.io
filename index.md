@@ -17,7 +17,7 @@ Projects:<br>
 a look at the small countries with high player outputs<br>
 <br>
 <a href="immigration">An Immigration STorys</a><br> 
-what role do immmigrants play in our economy?<br>
+what role do immigrants play in our economy?<br>
 <br>
 <a href="https://www.linkedin.com/in/cristina-a-b68972185/">LinkedIn</a> / <a href="mailto:cris.alvarezguzman@gmail.com">Email</a> / 
 <a href="https://www.instagram.com/kateouterton2.0/?hl=en">Instagram</a>
