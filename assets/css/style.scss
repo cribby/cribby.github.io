@@ -57,6 +57,13 @@ h1, h2, h3, h4, h5, h6 {
   display: none;
 }
 
+/*project formatting*/
+.project-block {
+  text-align: right;
+  margin-top: 220px;   /* bigger than .right-block so it starts lower */
+}
+
+
 /* remove scanline effect if you don't want it */
 body::before {
   content: none;
